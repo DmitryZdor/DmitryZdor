@@ -1,6 +1,8 @@
-### Hi there, I'm [Dmitry](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+### Hi there, I'm Dmitry![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+-+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Python+-+developer)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryZdor&layout=compact)](https://github.com/DmitryZdor/github-readme-stats)
 
 
 
