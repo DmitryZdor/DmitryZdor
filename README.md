@@ -6,6 +6,9 @@
 
 <a href="https://stepik.org/cert/1671950" rel="nofollow"><img src="https://stepik.org/media/cache/images/courses/58852/cover_QYnvwho/c4fdb0c8ed0e757ca3c6d54a83d329d7.png" alt="sertificate" height="50">
 
+ <a href="https://stepik.org/cert/1780029" rel="nofollow"><img src="https://stepik.org/media/cache/images/courses/63054/cover_foIuz1t/6bc976a3abd69e9e3e5163a5973a8ccf.jpg" alt="sertificate" height="50"> 
+  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryZdor&layout=compact)](https://github.com/DmitryZdor/github-readme-stats)
 
 
