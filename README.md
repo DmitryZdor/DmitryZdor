@@ -7,7 +7,7 @@
 <img src="https://stepik.org/media/cache/images/courses/187/cover/3a07739e5039cabeeba1a86eddc30f8b.png" alt="sertificate" height="50"></a>      <a href="https://stepik.org/cert/1671950" rel="nofollow"><img src="https://stepik.org/media/cache/images/courses/58852/cover_QYnvwho/c4fdb0c8ed0e757ca3c6d54a83d329d7.png" alt="sertificate" height="50"></a>     <a href="https://stepik.org/cert/1780029" rel="nofollow">
 <img src="https://stepik.org/media/cache/images/courses/63054/cover_foIuz1t/6bc976a3abd69e9e3e5163a5973a8ccf.jpg" alt="sertificate" height="50"> </a> 
 <a href="https://stepik.org/cert/1927858" rel="nofollow">
-<img src="https://stepik.org/media/cache/images/courses/68343/cover_g89z0Wj/8168b174075bbebf79812eb738fde371.png" alt="sertificate" height="50"></a>  <a href="https://stepik.org/cert/1927858" rel="nofollow"> <img src="https://stepik.org/media/cache/images/courses/82541/cover_sXres1W/8ee2230bc96ebfdf123022cb2924c9da.png" alt="sertificate" height="50"></a>  
+<img src="https://stepik.org/media/cache/images/courses/68343/cover_g89z0Wj/8168b174075bbebf79812eb738fde371.png" alt="sertificate" height="50"></a>  <a href="https://stepik.org/cert/2080885" rel="nofollow"> <img src="https://stepik.org/media/cache/images/courses/82541/cover_sXres1W/8ee2230bc96ebfdf123022cb2924c9da.png" alt="sertificate" height="50"></a>  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryZdor&layout=compact)](https://github.com/DmitryZdor/github-readme-stats)
 
